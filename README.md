@@ -1,5 +1,5 @@
-# ZER0BOT V2.1 🐐
-> ZER0 BOT The discord API turns your discord chat channel into a C&C server!
+# VENBOT V2.1 🐐
+> VEN BOT The discord API turns your discord chat channel into a C&C server!
 > You can add or remove methods, tools,...
 
 # Installation:
@@ -25,8 +25,7 @@ NOTE: easy install pls dont say me how to install
 
 # Credits
 ```sh
-zxcr9999
-rcong
+VenThings
 (Thank for using <3)
 ```
 
@@ -43,6 +42,5 @@ LATEST RELEASE AND WITHOUT ANY ERROR
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+Discord: venthings#3280
 ```
