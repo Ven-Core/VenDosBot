@@ -1,10 +1,32 @@
-# VENBOT V2.1 🐐
-> VEN BOT A DDOS BOT BY VEN MANINGo
+# ZER0BOT V2.1 🐐
+> ZER0 BOT The discord API turns your discord chat channel into a C&C server!
 > You can add or remove methods, tools,...
+
+# Installation:
+```sh
+1. Install NodeJS 12.x
+2. Install Screen: apt-get install screen -y
+3. Use your bot token generated at Discord Devoloper website
+4. Paste the bot token on line 286 in the bot.js file
+5. Copy the ROOM ID where the attack command is written and change the ROOM ID at line 3 of the file ayarlar.json
+6. Customize attack commands in 2 folders attack_layer7 and attack_layer4
+7. Run the command to start the bot by typing node bot.js
+8. Let's have fun
+
+NOTE: easy install pls dont say me how to install
+```
+
+# Log
+```sh
+- SMALL UPDATE ANTI SKID
+- UPDATE METHODS COMMAND
+- NEW GEOIP FUNCTION
+```
 
 # Credits
 ```sh
-VenThings#3280 @ discord.com
+zxcr9999
+rcong
 (Thank for using <3)
 ```
 
@@ -21,6 +43,6 @@ LATEST RELEASE AND WITHOUT ANY ERROR
 
 # CONTACT:
 ```sh
-Discord: venthings#3280
-LINK: https://discord.gg/bHCD7wgDHj
+Telegram: @zxcr9999
+Discord: zxcr9999#1770
 ```
