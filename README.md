@@ -1,20 +1,20 @@
-# VEN BOT V2.1 🐐
-> VEN BOT FOR DDOS ACTIVITIES PROJECT
-> You can add or remove methods, tools,...
+# DDOS Bot for Discord <img src="https://github.com/user-attachments/assets/a70fd13c-a726-4dff-ac0e-0e02e4cadf94" width="55" />
+
+- Layer 4 ⚡
+- Layer 7 ⚡
+
+- You can add more methods and tools, or delete as needed. 🛠️
+
+<img src="https://github.com/user-attachments/assets/85cdb061-f0f7-4e48-a71e-b070bd8f19b5" width="400" />
+<img src="https://github.com/user-attachments/assets/3f1c9291-a2f6-42ff-9ae6-d29da2b0c8ae" width="468" />
+
 
 # Credits
-```sh
-VenThings#3280
-https://discord.gg/bHCD7wgDHj
-```
+- [**Haven / Hydrax**](https://www.facebook.com/xvennnnnn) 🙌
 
-# TOS:
-```sh
-I do not accept any responsibility for your use of the source code for any purpose
-Remember: Purpose born to study
-```
+# P.S.
+- I do not accept any responsibility for your use of the source code for any purpose.  
+  Remember: Purpose born to study. 📚
 
-# NOTE:
-```sh
-LATEST RELEASE AND WITHOUT ANY ERROR
-```
+# NOTE
+- LATEST RELEASE AND WITHOUT ANY ERROR ✅
