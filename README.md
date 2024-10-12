@@ -12,6 +12,11 @@
 # Credits
 - [**Haven / Hydrax**](https://www.facebook.com/xvennnnnn) 🙌
 
+<a href="https://github.com/Ven-Core"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p><p align="left">
+<a href="https://www.facebook.com/xvennnnnn/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p><p align="left">
+
 # P.S.
 - I do not accept any responsibility for your use of the source code for any purpose.  
   Remember: Purpose born to study. 📚
